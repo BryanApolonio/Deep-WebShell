@@ -48,7 +48,7 @@ cd Deep-WebShell
 php -v
 ```
 
-### Ubuntu/Debian/MX Linux
+### Ubuntu/Debian
 ```bash
 # Update package manager
 sudo apt update
