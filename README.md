@@ -50,9 +50,6 @@ php -v
 
 ### Ubuntu/Debian
 ```bash
-# Update package manager
-sudo apt update
-
 # Install PHP and essential modules
 sudo apt install php-cli php-common php-curl -y
 
