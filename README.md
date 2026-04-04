@@ -28,7 +28,7 @@ To deploy this shell on your server or local environment, you need:
 
 * **PHP 8.1+**
 * **Linux Environment** (sudoers access required for the web user)
-* **Fira Code font** (optional, for the intended "Hacker" aesthetics)
+* **Fira Code font** (optional, for the intended aesthetics)
 
 ## Installation
 
