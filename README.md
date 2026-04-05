@@ -93,10 +93,11 @@ $MASTER_KEY = "YOUR_SECRET_KEY_HERE";
 
 ```text
 ├── assets/
-│   └── img/                # UI Screenshots (login.png & terminal.png)
+│   ├── img/                # UI Screenshots (login.png & terminal.png)
+│   └── style.css           # Brutalist Dark-Mode UI
 ├── index.php               # Gateway & Double-Auth Logic
-├── webshell.php            # Terminal Engine & System Monitor
-└── style.css               # Brutalist Dark-Mode UI
+└── webshell.php            # Terminal Engine & System Monitor
+
 ```
 
 ## Security Warning & Disclaimer ⚠️
