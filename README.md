@@ -40,12 +40,12 @@ To deploy this shell on your server or local environment, you need:
 # Install PHP and dependencies
 brew install php
 
+# Verify installation
+php -v
+
 # Clone the repository
 git clone https://github.com/BryanApolonio/Deep-WebShell.git
 cd Deep-WebShell
-
-# Verify installation
-php -v
 ```
 
 ### Ubuntu/Debian
@@ -56,9 +56,6 @@ sudo apt install php-cli php-common php-curl -y
 # Clone the repository
 git clone https://github.com/BryanApolonio/Deep-WebShell.git
 cd Deep-WebShell
-
-# Verify installation
-php -v
 ```
 
 ### Fedora
@@ -70,8 +67,6 @@ sudo dnf install php php-curl -y
 git clone https://github.com/BryanApolonio/Deep-WebShell.git
 cd Deep-WebShell
 
-# Verify installation
-php -v
 ```
 
 ## Configuration
