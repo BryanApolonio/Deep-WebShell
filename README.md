@@ -40,9 +40,6 @@ To deploy this shell on your server or local environment, you need:
 # Install PHP and dependencies
 brew install php
 
-# Verify installation
-php -v
-
 # Clone the repository
 git clone https://github.com/BryanApolonio/Deep-WebShell.git
 cd Deep-WebShell
